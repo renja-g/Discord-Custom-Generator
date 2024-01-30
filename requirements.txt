@@ -1,0 +1,9 @@
+aiohttp==3.9.3
+aiosignal==1.3.1
+attrs==23.2.0
+frozenlist==1.4.1
+idna==3.6
+multidict==6.0.4
+py-cord @ git+https://github.com/Pycord-Development/pycord@fc7b1042c4a9a942b9996dfe96f56aac059e179c
+python-dotenv==1.0.1
+yarl==1.9.4
